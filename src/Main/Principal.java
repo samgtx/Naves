@@ -39,6 +39,7 @@ public class Principal {
                 System.out.println(pilotos[i].getNave().info());
             }while (!(pilotos[i].getNave().isDestruida()));
         }
+        System.out.println("modificacionSamuel");
 
     }
     public static void mensajemenu(){
